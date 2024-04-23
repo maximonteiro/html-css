@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(62, 116, 62);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: #6cc76c;
+}
+h1#principal {
+text-align: center;
+color: white;
+
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+.basico{/* Editando a classe que eu criei e chamei de basico, dando a ela a cor verde. Nesse caso, tudo que eu CLASSIFICAR como basico, vai assumir essas propriedades*/
+    color: #87ce87;
+    font-weight: bold;
+}
+.intermediario{
+    color: rgb(179, 179, 61);
+}
+.avançado{
+    color: rgb(175, 100, 100);
+}
+p{
+    color: white;
+}
